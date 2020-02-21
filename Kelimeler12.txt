@@ -1,0 +1,64 @@
+talk:konuþmak
+tap:kullanmak
+taste:tadýna bakmak
+tease:alay etmek
+telephone:telefon etmek
+tempt:ayartmak
+terrify:çok korkutmak
+test:test etmek
+thank:teþekkür etmek
+tick:tik koymak
+tie:baðlamak
+time:zamanlamak
+tip:bahþiþ vermek
+tire:yormak:yorulmak
+touch:dokunmak
+tour:dolaþmak
+trade:ticaret yapmak
+train:eðitmek
+transport:nakletmek
+trap:tuzaða düþürmek
+travel:seyahat etmek
+treat:muamele etmek
+tremble:titremek
+trick:aldatmak
+trip:çelme takmak
+trot:týrýs gitmek
+trouble:rahatsýz etmek
+trust:güvenmek
+try:denemek
+tug:þiddetle çekmek
+turn:dönmek
+twist:bükmek:kývýrmak
+type:daktilo ile yazmak:yazmak
+undress:soyunmak
+unite:birleþmek:birleþtirmek
+unlock:kilidini açmak
+unpack:bavul açmak:açmak
+use:kullanmak
+visit:ziyaret etmek
+wait:beklemek
+walk:yürümek
+want:istemek
+warm:ýsýnmak:heyecanlandýrmak
+warn:uyarmak
+wash:yýkamak
+waste:ziyan etmek
+watch:seyretmek
+water:sulamak
+wave:sallamak:sallanmak
+weigh:tartmak:çekmek
+welcome:hoþ karþýlamak
+whisper:fýsýldamak
+whistle:ýslýk çalmak
+wink:göz kýrpmak
+wipe:silmek
+wish:dilemek
+wonder:hayret etmek
+work:çalýþmak
+worry:endiþelenmek
+wrestle:güreþmek
+yawn:esnemek
+yell:haykýrmak
+zip:fermuar açmak:kapamak
+zoom:zum yapmak 

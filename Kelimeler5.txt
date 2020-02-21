@@ -1,0 +1,38 @@
+face:yüzleþmek
+fade:solmak
+fail:baþarýsýz olmak
+fasten:baðlamak:tutturmak
+fax:faks çekmek
+fear:korkmak
+fence:çitle çevirmek
+file:dosyalamak
+fill:doldurmak
+film:film çekmek
+fire:tutuþturmak:ateþ etmek
+fit:uymak
+fix:sabitlemek:belirlemek
+flash:birden parlamak
+float:batmadan yüzmek
+flood:su basmak
+flow:akmak
+flower:çiçek açmak
+follow:takip etmek
+fool:kandýrmak
+force:zorlamak
+form:biçimlendirmek
+found:inþa etmek
+frame:çerçevelemek
+frighten:korkutmak
+fry:kýzartmak
+glow:ýþýk vermek
+glue:yapýþtýrmak
+grab:kavramak
+grate:rendelemek
+grease:yaðlamak
+greet:selamlamak:karþýlamak
+grip:sýmsýký tutmak
+groan:inlemek
+guarantee:garanti vermek
+guard:korumak
+guess:tahmin etmek
+guide:kýlavuzluk etmek

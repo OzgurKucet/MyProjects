@@ -1,0 +1,34 @@
+hammer:çekiçle vurmak
+hand:uzatmak
+handle:baþa çýkmak:yönetmek
+hang:asmak
+happen:olmak
+harm:zarar vermek:zarar
+hate:nefret etmek:nefret
+haunt:perili:uðrak:uðramak
+head:baþý çekmek:baþ
+heal:iyileþmek
+heat:ýsýtmak
+help:yardým etmek
+hop:hoplamak
+hope:ümit etmek
+hug:kucaklamak
+hunt:avlanmak
+hurry:acele etmek
+identify:teþhis etmek
+imagine:hayal etmek
+impress:etkilemek
+improve:geliþtirmek
+include:içermek
+increase:artmak
+influence:etkilemek
+inform:bilgilendirmek
+inject:iðne yapmak
+injure:incitmek:yaralamak
+instruct:talimat vermek
+intend:niyet etmek
+interest:ilgi uyandýrmak
+introduce:tanýþtýrmak
+invent:bulmak:keþfetmek
+invite:davet etmek
+itch:kaþýmak

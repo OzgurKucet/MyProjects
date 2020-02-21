@@ -1,0 +1,38 @@
+question:soru sormak
+queue:kuyruða girmek
+race:yarýþmak
+rain:yaðmur yaðmak
+raise:kaldýrmak
+reach:ulaþmak
+realise:farkýna varmak
+receive:teslim almak
+recognise:tanýmak:takdir etmek
+record:kaydetmek
+reduce:azaltmak:indirmek
+reflect:yansýtmak
+refuse:reddetmek
+regret:ihmal etmek
+reject:reddetmek:atmak
+relax:rahatlamak
+release:serbest býrakmak
+rely:itimat etmek
+remain:kalmak
+remember:hatýrlamak
+remind:hatýrlatmak
+remove:çýkarmak:temizlemek
+repair:tamir etmek
+repeat:tamir etmek
+replace:eski yerine koymak
+reply:karþýlýk vermek
+report:haber vermek
+reproduce:üretmek
+request:rica etmek
+rescue:kurtarmak
+retire:emekli olmak
+return:dönmek:geri vermek
+risk:risk almak
+rock:sallamak
+roll:yuvarlamak
+ruin:harab etmek
+rule:hükmetmek
+rush:acele etmek

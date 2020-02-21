@@ -1,0 +1,54 @@
+obey:itaat etmek
+object:itiraz etmek
+observe:incelemek
+obtain:elde etmek
+occur:meydana gelmek
+offend:gücendirmek
+offer:teklif etmek
+open:açmak
+order:ýsmarlamak
+owe:borcu olmak
+own:sahip olmak
+pack:paket yapmak
+paint:boyamak
+park:park etmek
+pass:geçmek
+paste:yapýþtýrmak
+pat:hafifçe vurmak
+pause:duraklamak
+peel:kabuðunu soymak
+perform:temsil etmek
+permit:izin vermek
+phone:telefon açmak
+pick:seçmek:ayýrmak
+pinch:çimdiklemek
+pine:güçten düþmek
+place:yerleþtirmek
+plan:planlamak
+plant:yerleþtirmek:ekmek
+play:oynamak
+please:memnun etmek
+point:iþaret etmek
+polish:parlatmak:cilalamak
+possess:sahip olmak
+post:postalamak
+pour:doldurmak
+practise:pratik yapmak
+pray:dua etmek
+prefer:tercih etmek
+prepare:hazýrlamak
+present:takdim etmek:sunmak
+preserve:korumak:saklamak
+press:sýkýþtýrmak
+prevent:önlemek
+print:basmak
+produce:üretmek
+program:programlamak
+promise:söz vermek
+protect:korumak
+provide:saðlamak
+pull:çekmek
+pump:pompalamak
+punch:yumruk atmak
+punish:cezalandýrmak
+push:itmek

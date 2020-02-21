@@ -1,0 +1,30 @@
+man:adam vermek
+manage:yönetmek
+march:uygun adým yürümek
+mark:iþaretlemek
+marry:evlenmek
+match:eþleþtirmek
+mate:çiftleþmek
+matter:önemli olmak
+measure:ölçmek
+melt:erimek
+memorise:ezberlemek
+mend:tamir etmek
+mess up:daðýtmak
+milk:süt saðmak
+mine:maden iþletmek
+miss:özlemek:kaçýrmak
+mix:karýþtýrmak
+move:taþýnmak
+muddle:karýþtýrmak
+mug:saldýrýp soymak
+multiply:çoðalmak
+murder:cinayet iþlemek
+nail:çivilemek
+name:ad vermek
+need:ihtiyaç duymak
+nest:yuva yapmak
+nod:baþýný sallamak
+note:not etmek
+notice:farkýna varmak
+number:numaralamak

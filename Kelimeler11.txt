@@ -1,0 +1,73 @@
+sail:yelken açmak
+satisfy:hoþnut etmek
+save:kurtarmak
+saw:testere ile kesmek
+scare:korkutmak
+scratch:týrmalamak
+scream:çýðlýk atmak
+screw:vidalamak
+scribble:çiziktirmek
+scrub:fýrçalamak:ovalamak
+seal:mühürlemek
+search:araþtýrmak
+separate:ayýrmak
+serve:hizmet etmek
+settle:yerleþmek
+shade:gölgelemek
+share:paylaþmak
+shave:traþ olmak
+shelter:barýndýrmak
+shock:þok etmek
+shop:alýþveriþ yapmak
+shrug:omuz silkmek
+sigh:iç çekmek
+sign:imzalamak
+signal:iþaret vermek
+sin:günah iþlemek
+ski:kayak yapmak
+skip:zýplamak/sekmek
+slap:tokatlamak
+slip:kaymak
+slow:yavaþlamak
+smell:koklamak
+smile:gülümsemek
+smoke:sigara içmek
+sneeze:aksýrmak
+sniff:burnunu çekmek:koklamak
+snore:horlamak
+snow:kar yaðmak
+sound:ses çýkarmak
+spare:esirgemek
+spell:hecelemek
+spill:dökmek
+spoil:berbat etmek
+spray:püskürtmek
+stain:lekelemek
+stamp:damgalamak
+stare:dik dik bakmak
+start:baþlamak
+stay:kalmak
+steer:dümen kullanmak
+step:adým atmak
+stitch:dikiþ dikmek
+stop:durmak
+store:depolamak
+strap:kayýþla baðlamak
+strengthen:güçlendirmek
+stretch:germek
+strip:soymak
+stroke:okþamak
+stuff:doldurmak:týkmak
+succeed:baþarmak
+suck:emmek
+suffer:ýstýrap çekmek
+suggest:tavsiye etmek
+suit:uymak
+supply:tedarik etmek
+support:desteklemek
+suppose:varsaymak:zannetmek
+surprise:þaþýrmak
+surround:kuþatmak
+suspect:þüphelenmek
+suspend:askýya almak:asmak
+switch:deðiþtirmek/düðmeye basmak

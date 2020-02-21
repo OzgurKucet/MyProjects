@@ -1,0 +1,33 @@
+back:arka:sýrt:geri
+bake:piþirmek
+balance::dengede tutmak:denge:dengelemek
+ban:yasaklamak
+bang:vurmak:çarpmak
+bat:sopayla vurmak:göz kýrpmak:beysbol sopasý
+bathe:banyo yapmak:banyo
+battle:savaþmak:savaþ
+beg:özür dilemek:özür
+behave:davranmak
+belong:ait olmak
+bless:kutsamak
+blind:körlük:körleþtirmek:kör
+blink:göz kýrpmak
+blush:utançtan kýzarmak
+boast:böbürlenmek
+boil:kaynamak
+bolt:irkilmek:fýrlamak:civata
+bomb:bombalamak:bomba
+book:rezervasyon yapmak:rezervasyon
+bore:canýný sýkmak
+borrow:ödünç almak
+bounce:zýplamak
+bow:reverans yapmak:reverans:eðilme ya da diz kýrma
+box:yumruklaþmak
+brake:fren yapmak
+branch:dallanmak
+breathe:nefes almak:nefes
+bruise:çürütmek
+brush:fýrçalamak
+burn:yanmak
+bury:gömmek
+buzz:výzýldamak

@@ -1,0 +1,54 @@
+calculate:hesaplamak:hesap yapma
+call:aramak
+camp:kamp yapmak:kamp
+care:önemsemek:bakým:dikkat
+carry:taþýmak
+carve:oymak:býçaklamak
+cause:neden olmak:sebep olmak
+challenge:meydan okumak
+change:deðiþtirmek
+charge:þarj etmek:doldurmak:þarj
+chase:kovalamak
+cheat:aldatmak:hile yapmak:hile
+check:kontrol etmek:kontrol
+cheer:tezahürat yapmak:tezahürat
+chew:çiðnemek
+chop:doðramak
+claim:iddia etmek:iddia:talep
+clap:alkýþlamak:alkýþ
+clean:temizlemek:temiz
+clear:temizlemek:temiz
+clip:tutturmak:kesmek:kýrpmak
+close:kapatmak:kapalý
+coach:yetiþtirmek:çalýþtýrmak
+collect:toplamak:almak:biriktirmek
+colour:renklendirmek:renk
+comb:taramak
+command:emir vermek
+communicate:iletiþim kurmak
+compare:karþýlaþtýrmak
+compete:yarýþmak
+complain:yakýnmak:þikayet
+complete:tamamlamak
+concentrate:konsantre olmak:konsantre
+concern:kaygýlandýrmak:endiþe:ilgi
+confess:itiraf etmek
+confuse:kafasýný karýþtýrmak:kafasý karýþmak:þaþýrtmak
+connect:baðlamak:baðlanmak
+consider:hesaba katmak:düþünmek:dikkate almak
+consist:-den oluþmak:oluþmak
+contain:içermek
+continue:devam etmek
+copy:kopyalamak:kopya
+correct:düzeltmek
+cough:öksürmek
+count:saymak
+cover:örtmek
+crack:çatlamak:çatlatmak
+crash:gürültüyle çarpma:kaza:çarpmak
+crawl:emeklemek
+cross:öbür tarafa geçmek:karþýya geçmek
+crush:ezmek
+cry:aðlamak
+cure:tedavi etmek
+cycle:bisiklet sürmek

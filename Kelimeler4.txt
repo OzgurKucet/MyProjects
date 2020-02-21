@@ -1,0 +1,55 @@
+damage:hasar vermek:hasar
+dance:dansetmek:dans
+dare:cüret etmek
+deceive:aldatmak
+decide:karar vermek
+decorate:dekore etmek
+delay:gecikmek/geciktirmek
+delight:zevk vermek
+deliver:teslim etmek
+depend:baðlý olmak
+describe:tanýmlamak
+desert:terketmek
+deserve:layýk olmak
+destroy:mahvetmek
+detect:tespit etmek
+develop:geliþtirmek
+disagree:ayný fikirde olmamak
+disappear:gözden kaybolmak
+disapprove:tasvip etmemek
+discover:keþfetmek
+dislike:hoþlanmamak
+divide:bölmek
+double:iki misli yapmak
+doubt:-den kuþkulanmak
+drag:sürüklemek
+drain:akýtmak/akmak
+dream:rüya görmek/hayal kurmak
+dress:giyinmek
+drip:damlamak
+drop:düþürmek
+drown:boðulmak
+drum:davul çalmak
+dry:kurumak/kurutmak
+dust:tozunu almak
+earn:kazanmak
+educate:eðitmek
+embarrass:utandýrmak
+employ:iþ vermek
+empty:boþaltmak
+encourage:cesaretlendirmek
+end:bitirmek
+enjoy:zevk almak
+enter:girmek
+entertain:eðlendirmek
+escape:kaçmak
+examine:muayene etmek
+excite:heyecanlandýrmak
+excuse:baðýþlamak
+exercise:egzersiz yapmak
+exist:var olmak
+expand:geniþletmek
+expect:ummak/beklemek
+explain:açýklamak
+explode:patlamak
+extend:eriþmek/yayýlmak

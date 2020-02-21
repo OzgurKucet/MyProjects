@@ -1,0 +1,27 @@
+add:eklemek:ekle
+admire:hayran olmak
+admit:itiraf etmek
+advise:tavsiye etmek
+afford:karþýlamak
+agree:ayný fikirde olmak:katýlmak
+allow:izin vermek:izin
+amuse:eðlendirmek
+announce:duyurmak
+annoy:rahatsýz etmek:can sýkýcý
+answer:cevap vermek:cevap
+apologise:özür dilemek
+appear:gözükmek:gözükmüþ:belirmek
+applaud:alkýþlamak
+appreciate:memnun olmak
+approve:onaylamak
+argue:tartýþmak
+arrange:düzenlemek
+arrest:tutuklamak
+arrive:varmak:ulaþmak
+ask:sormak
+attach:iliþtirmek
+attack:saldýrmak
+attempt:giriþimde bulunmak
+attend:katýlmak
+attract:çekmek
+avoid:sakýnmak

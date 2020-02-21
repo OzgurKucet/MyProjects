@@ -1,0 +1,31 @@
+jail hapsetmek
+jam:sýkýþtýrmak:týkamak
+join:katýlmak
+joke:þaka yapmak
+judge:yargýlamak
+jump:zýplamak
+kick:tekmelemek
+kill:öldürmek
+kiss:öpmek
+kneel:diz çökmek
+knit:örmek
+knock:vurmak
+label:etiketlemek
+land:iniþ yapmak
+last:sürmek
+laugh:gülmek
+launch:fýrlatmak
+learn:öðrenmek
+level:düzleþtirmek
+license:ruhsat vermek
+lick:yalamak
+lie:yalan söylemek
+lighten:aydýnlatmak
+like:hoþlanmak
+list:listelemek
+listen:dinlemek
+live:yaþamak
+load:yüklemek
+lock:kilitlemek
+look:bakmak
+love:sevmek
