@@ -6,3 +6,7 @@ Diğer seçenek ise Türkçe verilen kelime ile ingilizce karşılığını yazm
 Amaç en çok puanı yapmak!
 
 Eğer kelimeyi bilmiyorsan 1 bas pas geç anlamına geliyor iyi eğlenceler...
+
+# Harf Ve Kelime Frekansı
+
+Girilen metnin Kelime Sayısı ve Harf Sayısını bulur.
