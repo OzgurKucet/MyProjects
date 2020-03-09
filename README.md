@@ -7,11 +7,13 @@ Amaç en çok puanı yapmak!
 
 Eğer kelimeyi bilmiyorsan 1 bas pas geç anlamına geliyor iyi eğlenceler...
 
-# Harf Ve Kelime Frekansı
+# Harf Ve Kelime Sayisi
 
-Girilen metnin Kelime Sayısı ve Harf Sayısını bulur.
+Girilen metnin Kelime Sayısı ve Harf Sayısını bulur.Java swing arayüzü ile yapıldı.
 
 # KelimeTahminiProgrami
 
 Bir sonraki kelimeyi tahmin eder bunu 10 tane txt dosyasından aldığı veriler ile yapar
 Örneğin: siz Türk yazıcaksiniz program Türk Edebiyatını diye önermede bulunacak...
+
+
