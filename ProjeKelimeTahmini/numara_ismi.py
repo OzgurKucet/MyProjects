@@ -23,6 +23,8 @@ def sozlukolustur(tumKelimeler):
             kelimesayisi[kelime] = 1
 
     return kelimesayisi
+"""
+#Tek kelime inputta olduğunda kullanılabilir
 
 def sozlukKelimeninYanındakiKelimeler(tumKelimeler,kelime):
     liste = []
@@ -31,7 +33,7 @@ def sozlukKelimeninYanındakiKelimeler(tumKelimeler,kelime):
             liste.append(tumKelimeler[i+1])
 
     return liste
-
+"""
 def sozlukKelimeninYanındakiKelimeler1(tumKelimeler,kelime):
     liste = kelime.split()
     liste2 = []
@@ -77,8 +79,7 @@ def sozlukteHangisininKelimeSayisiBuyuk(sozluk):
                 EnÇokGecen = kelime
         return EnÇokGecen
     except UnboundLocalError:
-        print("")
-
+        a=10
 tumKelimeler = []
 
 
@@ -87,52 +88,21 @@ def EnÇokGeçenKelime(inputcumleler):
     dosyaOutput = open("output.txt","w")
     for kelimeler in inputcumleler:
             kelime = kelimeler.split()
+            kelime1 =str()
+            for i in range(len(kelime)):
+                if i != len(kelime)-1:
+                    kelime1 += str(kelime[i]+" ")
+                else:
+                    kelime1 += str(kelime[i])
             try:
-                if len(kelime) == 1:
-                    liste = sozlukKelimeninYanındakiKelimeler(tumKelimeler,kelime[0])
-                    kelimesayisi = sozlukolustur(liste)
-                    """for anahtar,deger in sorted(kelimesayisi.items(),key = operator.itemgetter(1)):
-                        print(anahtar,deger)
-                    """
-                    enCokGecenKelime = sozlukteHangisininKelimeSayisiBuyuk(kelimesayisi)
-                    #print(kelime[0],enCokGecenKelime)
-                    dosyaOutput.write(kelime[0]+" "+enCokGecenKelime+"\n")
 
+                liste = sozlukKelimeninYanındakiKelimeler1(tumKelimeler,kelime1)
+                kelimesayisi = sozlukolustur(liste)
 
-                elif len(kelime) == 2:
-                    kelime = kelime[0] +" "+kelime[1]
-                    liste = sozlukKelimeninYanındakiKelimeler1(tumKelimeler,kelime)
-                    kelimesayisi = sozlukolustur(liste)
+                enCokGecenKelime = sozlukteHangisininKelimeSayisiBuyuk(kelimesayisi)
+                #print(kelime,enCokGecenKelime)
+                dosyaOutput.write(kelime1+" "+enCokGecenKelime+"\n")
 
-                    enCokGecenKelime = sozlukteHangisininKelimeSayisiBuyuk(kelimesayisi)
-                    #print(kelime,enCokGecenKelime)
-                    dosyaOutput.write(kelime+" "+enCokGecenKelime+"\n")
-
-                elif len(kelime) == 3:
-                    kelime = kelime[0] +" "+kelime[1]+" "+kelime[2]
-                    liste = sozlukKelimeninYanındakiKelimeler1(tumKelimeler,kelime)
-                    kelimesayisi = sozlukolustur(liste)
-
-                    enCokGecenKelime = sozlukteHangisininKelimeSayisiBuyuk(kelimesayisi)
-                    #print(kelime,enCokGecenKelime)
-                    dosyaOutput.write(kelime+" "+enCokGecenKelime+"\n")
-                elif len(kelime) == 4:
-                    kelime = kelime[0] +" "+kelime[1]+" "+kelime[2]+" "+kelime[3]
-                    liste = sozlukKelimeninYanındakiKelimeler1(tumKelimeler,kelime)
-                    kelimesayisi = sozlukolustur(liste)
-
-                    enCokGecenKelime = sozlukteHangisininKelimeSayisiBuyuk(kelimesayisi)
-                    #print(kelime,enCokGecenKelime)
-                    dosyaOutput.write(kelime+" "+enCokGecenKelime+"\n")
-
-                elif len(kelime) == 5:
-                    kelime = kelime[0] +" "+kelime[1]+" "+kelime[2]+" "+kelime[3]+" "+kelime[4]
-                    liste = sozlukKelimeninYanındakiKelimeler1(tumKelimeler,kelime)
-                    kelimesayisi = sozlukolustur(liste)
-
-                    enCokGecenKelime = sozlukteHangisininKelimeSayisiBuyuk(kelimesayisi)
-                    #print(kelime,enCokGecenKelime)
-                    dosyaOutput.write(kelime+" "+enCokGecenKelime+"\n")
             except TypeError:
                 dosyaOutput.write("-------Hatalı giriş yapmışsınız böyle bir kelime 10 txt dosyasında da geçmiyor!!!!!!!-------\n")
 
@@ -155,7 +125,11 @@ if a==-1:
 EnÇokGeçenKelime(inputcumleler)
 
 print("İnput Dosyasına Girdikleriniz Output Dosyasına Başarıyla Yazdirilmiştir...")
+
+
 """
+#Bu kısım tüm txt lerdeki Tüm kelimelerin Frekansını verir...
+
 for anahtar,deger in sorted(kelimesayisi.items(),key = operator.itemgetter(1)):
     print(anahtar,deger)
 """
