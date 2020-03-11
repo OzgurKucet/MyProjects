@@ -1,3 +1,6 @@
+#!/usr/bin/python3
+# -*- coding: utf-8 -*-
+
 import operator
 def sembolleriTemizle(tumKelimeler):
     sembolsuzkelimeler = []
@@ -67,61 +70,72 @@ def kelimeSayisiBestenBuyukMu(cumle):
 
 def sozlukteHangisininKelimeSayisiBuyuk(sozluk):
     enbuyuk = 0
-
-    for kelime,value in sozluk.items():
-        if(value>enbuyuk):
-            enbuyuk = value
-            EnÇokGecen = kelime
-    return EnÇokGecen
+    try:
+        for kelime,value in sozluk.items():
+            if(value>enbuyuk):
+                enbuyuk = value
+                EnÇokGecen = kelime
+        return EnÇokGecen
+    except UnboundLocalError:
+        print("")
 
 tumKelimeler = []
 
 
 
 def EnÇokGeçenKelime(inputcumleler):
+    dosyaOutput = open("output.txt","w")
     for kelimeler in inputcumleler:
             kelime = kelimeler.split()
-            if len(kelime) == 1:
-                liste = sozlukKelimeninYanındakiKelimeler(tumKelimeler,kelime[0])
-                kelimesayisi = sozlukolustur(liste)
-                """for anahtar,deger in sorted(kelimesayisi.items(),key = operator.itemgetter(1)):
-                    print(anahtar,deger)
-                """
-                enCokGecenKelime = sozlukteHangisininKelimeSayisiBuyuk(kelimesayisi)
-                print(kelime[0],enCokGecenKelime)
-
-            elif len(kelime) == 2:
-                kelime = kelime[0] +" "+kelime[1]
-                liste = sozlukKelimeninYanındakiKelimeler1(tumKelimeler,kelime)
-                kelimesayisi = sozlukolustur(liste)
-
-                enCokGecenKelime = sozlukteHangisininKelimeSayisiBuyuk(kelimesayisi)
-                print(kelime,enCokGecenKelime)
+            try:
+                if len(kelime) == 1:
+                    liste = sozlukKelimeninYanındakiKelimeler(tumKelimeler,kelime[0])
+                    kelimesayisi = sozlukolustur(liste)
+                    """for anahtar,deger in sorted(kelimesayisi.items(),key = operator.itemgetter(1)):
+                        print(anahtar,deger)
+                    """
+                    enCokGecenKelime = sozlukteHangisininKelimeSayisiBuyuk(kelimesayisi)
+                    #print(kelime[0],enCokGecenKelime)
+                    dosyaOutput.write(kelime[0]+" "+enCokGecenKelime+"\n")
 
 
-            elif len(kelime) == 3:
-                kelime = kelime[0] +" "+kelime[1]+" "+kelime[2]
-                liste = sozlukKelimeninYanındakiKelimeler1(tumKelimeler,kelime)
-                kelimesayisi = sozlukolustur(liste)
+                elif len(kelime) == 2:
+                    kelime = kelime[0] +" "+kelime[1]
+                    liste = sozlukKelimeninYanındakiKelimeler1(tumKelimeler,kelime)
+                    kelimesayisi = sozlukolustur(liste)
 
-                enCokGecenKelime = sozlukteHangisininKelimeSayisiBuyuk(kelimesayisi)
-                print(kelime,enCokGecenKelime)
-                
-            elif len(kelime) == 4:
-                kelime = kelime[0] +" "+kelime[1]+" "+kelime[2]+" "+kelime[3]
-                liste = sozlukKelimeninYanındakiKelimeler1(tumKelimeler,kelime)
-                kelimesayisi = sozlukolustur(liste)
+                    enCokGecenKelime = sozlukteHangisininKelimeSayisiBuyuk(kelimesayisi)
+                    #print(kelime,enCokGecenKelime)
+                    dosyaOutput.write(kelime+" "+enCokGecenKelime+"\n")
 
-                enCokGecenKelime = sozlukteHangisininKelimeSayisiBuyuk(kelimesayisi)
-                print(kelime,enCokGecenKelime)
-                
-            elif len(kelime) == 5:
-                kelime = kelime[0] +" "+kelime[1]+" "+kelime[2]+" "+kelime[3]+" "+kelime[4]
-                liste = sozlukKelimeninYanındakiKelimeler1(tumKelimeler,kelime)
-                kelimesayisi = sozlukolustur(liste)
+                elif len(kelime) == 3:
+                    kelime = kelime[0] +" "+kelime[1]+" "+kelime[2]
+                    liste = sozlukKelimeninYanındakiKelimeler1(tumKelimeler,kelime)
+                    kelimesayisi = sozlukolustur(liste)
 
-                enCokGecenKelime = sozlukteHangisininKelimeSayisiBuyuk(kelimesayisi)
-                print(kelime,enCokGecenKelime)
+                    enCokGecenKelime = sozlukteHangisininKelimeSayisiBuyuk(kelimesayisi)
+                    #print(kelime,enCokGecenKelime)
+                    dosyaOutput.write(kelime+" "+enCokGecenKelime+"\n")
+                elif len(kelime) == 4:
+                    kelime = kelime[0] +" "+kelime[1]+" "+kelime[2]+" "+kelime[3]
+                    liste = sozlukKelimeninYanındakiKelimeler1(tumKelimeler,kelime)
+                    kelimesayisi = sozlukolustur(liste)
+
+                    enCokGecenKelime = sozlukteHangisininKelimeSayisiBuyuk(kelimesayisi)
+                    #print(kelime,enCokGecenKelime)
+                    dosyaOutput.write(kelime+" "+enCokGecenKelime+"\n")
+
+                elif len(kelime) == 5:
+                    kelime = kelime[0] +" "+kelime[1]+" "+kelime[2]+" "+kelime[3]+" "+kelime[4]
+                    liste = sozlukKelimeninYanındakiKelimeler1(tumKelimeler,kelime)
+                    kelimesayisi = sozlukolustur(liste)
+
+                    enCokGecenKelime = sozlukteHangisininKelimeSayisiBuyuk(kelimesayisi)
+                    #print(kelime,enCokGecenKelime)
+                    dosyaOutput.write(kelime+" "+enCokGecenKelime+"\n")
+            except TypeError:
+                dosyaOutput.write("-------Hatalı giriş yapmışsınız böyle bir kelime 10 txt dosyasında da geçmiyor!!!!!!!-------\n")
+
 
 for i in range(1,11):
     dosyaismi = str(i)+".txt"
@@ -140,9 +154,10 @@ if a==-1:
 
 EnÇokGeçenKelime(inputcumleler)
 
-
+print("İnput Dosyasına Girdikleriniz Output Dosyasına Başarıyla Yazdirilmiştir...")
 """
 for anahtar,deger in sorted(kelimesayisi.items(),key = operator.itemgetter(1)):
     print(anahtar,deger)
 """
+
 
