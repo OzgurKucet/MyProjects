@@ -1,0 +1,4 @@
+Python kütüphanelerini kullanarak yaptığım basit bir asistan. Basit selamlama cümlelerine
+karşılık veriyor. İnternetten Hava durumunu öğrene biliyor.Aradığımız şeyi sesli olarak
+söyleyip internetten karşılığını bulabiliyor. Saat gün gibi sorgulara cevap veriyor.
+Hava sıcaklığını http://rss.accuweather.com/ dan alabiliyor.

@@ -1,0 +1,2 @@
+Klavyeden yazi yazmakta zorlananlar için birebir cümleleri söylüyorsunuz ve txt ye kayıt oluyor.
+Kayit etmek istediğiniz txt dosyasinin ismini başta giriyorsunuz.
