@@ -1,0 +1,2 @@
+Amaç gerçek verilere en yakın bir polinom bulmak bu polinom bulunduktan sonra istenilen
+tarihin korana virüs hasta sayısı tahmini yapılabilir.
